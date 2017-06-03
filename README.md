@@ -15,3 +15,5 @@ module.exports = {
   token: "YOUR_TOKEN"
 }
 ```
+
+Run with `node bot.js` and you're good to go 
