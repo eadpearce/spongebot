@@ -1,8 +1,8 @@
-#spongebot  
+# spongebot  
 
 spongebot is a Discord bot that repeats everything you prefix with !mock iN a mOcKiNg ToNe.  
 
-##Setup  
+## Setup  
 
 install discord.js
 
