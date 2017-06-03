@@ -4,17 +4,7 @@ spongebot is a Discord bot that repeats everything you prefix with !mock iN a mO
 
 ## Setup  
 
-install discord.js
-
-```
-yarn add discord.js
-```
-
-or
-
-```
-npm install --save discord.js
-```
+`yarn install`
 
 Add an auth.js file with your discord app bot user token like so:  
 
